@@ -3,10 +3,6 @@
 <!DOCTYPE html>
 <html>
 
-<head>
-  <title>📝 Notepad Application</title>
-</head>
-
 <body>
   <h1>📝 Notepad Application</h1>
 
